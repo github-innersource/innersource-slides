@@ -1,11 +1,11 @@
 
-<img width="240px" src="../images/octo-white.png">
+<img width="240px" src="images/octo-white.png">
 
 # GitHub Applied Innersource
 
 ### A Field Study
 
---- 
+---
 
 <div style="display: flex; align-items: center; justify-content: center">
 <div><img src="../images/snsinahub.png" /></div>
