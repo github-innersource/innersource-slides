@@ -1,7 +1,5 @@
 ## Evaluation Process
 
-<br>
-
 A detailed view of the evaluation process
 
 ![processflow](images/processflow.png)
