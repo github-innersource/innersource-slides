@@ -16,7 +16,7 @@ Innersource presentation slides (reveal.js)
     ```
 
     ```bash
-    npm run dev
+    npm start
     ```
 
 ### Open: http://localhost:8000
