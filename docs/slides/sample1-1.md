@@ -10,22 +10,18 @@
 <br><br><br>
 
 <h1 align="center">
-Objectives
+Register
 </h1>
 
-- Apply a self-service approach to Innersource enablement.
-
-- Provide developers with an easy and fast way to promote a project to Innersource.
-
-- Maintain policies and standards for Innersource environments.
-
-- Discover Innersource projects, and all essential information (purpose, status, compliance, etc.)
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat.
 
 <br><br>
 
-<img style="display: block;
+<!-- <img style="display: block;
   margin-left: auto;
-  margin-right: auto;" src="images/process.png">
+  margin-right: auto;" src="images/process.png"> -->
 
 </div>
 

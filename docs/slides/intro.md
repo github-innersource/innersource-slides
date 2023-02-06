@@ -1,9 +1,11 @@
 
 <img width="240px" src="images/octo-white.png">
 
-# GitHub Applied Innersource
+## GitHub
 
-### A Field Study
+# Applied Innersource
+
+### (Project )
 
 <br><br><br>
 

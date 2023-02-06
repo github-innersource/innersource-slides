@@ -1,4 +1,4 @@
-<div style="height: 10vh; float: left; width: 85%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
+<div style="height: 10vh; float: left; width: 85%; padding: 10px 100px 10px 100px; border: 1px dashed red;">
   <div style="position:absolute;
     top:0;
     left:0; display: flex; font-size: 24px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
@@ -6,19 +6,18 @@
   </div>
 </div>
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
+<div style="height: 70vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 1px dashed red;">
 
 ### Issue Report
 
 <img height="80%" src="images/issue-report-sample.png">
-
 </div>  
 
-<div style="color: black; height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 0px 10px 100px; border: 0px dashed green;">
+<div style="height: 70vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 1px dashed red;">
 
 ### JSON Report
 
-<pre style="padding-right: "><code style="max-height: 70vh" data-line-numbers="3,5,7,35,41,71,151,181">
+<pre><code style="max-height: 60vh" data-line-numbers="3,5,7,35,41,71,151,181">
 {
     "meta": {
         "report_date": "Wed Feb 01 2023 18:26:03 GMT-0500 (Eastern Standard Time)",

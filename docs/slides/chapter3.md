@@ -6,26 +6,12 @@
   </div>
 </div>
 
-<div style="height: 99vh; align: center; font-size: 32px; text-align: justify; padding: 10px 300px 10px 300px; border: 0px dashed red;">
+<div style="height: 99vh; align: center; font-size: 32px; text-align: center; padding: 400px 300px 300px 300px; border: 0px dashed red;">
 <br><br><br>
 
-<h1 align="center">
-Objectives
-</h1>
+<h1 style="color: #66B2FF;">Chapter 3</h1>
 
-- Apply a self-service approach to Innersource enablement.
-
-- Provide developers with an easy and fast way to promote a project to Innersource.
-
-- Maintain policies and standards for Innersource environments.
-
-- Discover Innersource projects, and all essential information (purpose, status, compliance, etc.)
-
-<br><br>
-
-<img style="display: block;
-  margin-left: auto;
-  margin-right: auto;" src="images/process.png">
+## Discover & Maintain
 
 </div>
 
