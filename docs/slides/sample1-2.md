@@ -28,7 +28,7 @@
 </div>  
 
 
-<div style="height: 50vh; width:100vw; text-align: justify; font-size: 32px; float: left; padding: 10px 50px 10px 100px; border: 0px dashed green;">
+<div style="height: 50vh; width: 65vw; text-align: justify; font-size: 32px; float: left; padding: 10px 50px 10px 100px; border: 0px dashed green;">
 
 ## Titel 3
 
