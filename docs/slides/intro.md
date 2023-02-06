@@ -5,7 +5,7 @@
 
 # Applied Innersource
 
-### (Project )
+### (Project ...)
 
 <br><br><br>
 

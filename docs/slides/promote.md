@@ -10,20 +10,21 @@
 
 ## Promote
 
-  The intention to get a project promoted to **INNERSOURCE**. <br>This requires to apply a specific GitHub Topic, the possible Topic names are defined in the App configuration.
+  The intention of a developer to get a project promoted to **INNERSOURCE**. <br>This requires that we apply a specific GitHub Topic, the possible Topic names are defined in the App configuration.
   
 <br><br><br>
 
 ## Comply
 
   After marking the Repository with an 'INNERSOURCE' topic. <br>The App will run a report to check for compliance with Innersource rules. Compliance reports are logged in a Repository Issue and can be re-run via Issue-Ops.
-  <br><br>
-  <font color="orange">&#8681;</font> See some sample report and policy configuration
+
 </div>  
 
-<div style="color: black; height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 0px 10px 100px; border: 0px dashed green;">
+<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 0px 10px 100px; border: 0px dashed green;">
 <br><br>
-  <img src="images/processflow.png">
+  <img src="images/processflow.png">  
+  <br><br>
+  <font color="orange">&#8681;</font> ... sample report and policy configuration
 </div>  
 
 <!-- &#8681; -->

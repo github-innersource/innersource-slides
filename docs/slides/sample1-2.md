@@ -7,9 +7,19 @@
 </div>
 
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
+<div style="height: 40vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
 
-## Discover
+## Titel 1
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat.
+
+</div>  
+
+<div style="height: 40vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 50px 10px 50px; border: 0px dashed green;">
+
+## Titel 2
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
   magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -17,15 +27,16 @@
 
 </div>  
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 50px 10px 50px; border: 0px dashed green;">
 
-## Maintain
+<div style="height: 50vh; width:100vw; text-align: justify; font-size: 32px; float: left; padding: 10px 50px 10px 100px; border: 0px dashed green;">
+
+## Titel 3
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
   magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
   consequat.
 
-</div>  
+</div> 
 
 <!-- &#8681; -->
 

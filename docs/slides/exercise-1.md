@@ -15,8 +15,11 @@
 
 </div>
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 50px 30px 30px 30px; border: 0px dashed green;">
-  <div style="height: 50vh; background-color: #444444; text-align: justify; font-size: 28px; float: left; width: 90%; margin: 30px; padding: 30px; border: 1px solid grey; border-radius: 25px;">
+<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 30px 30px 30px; border: 0px dashed green;">
+
+## Instructions
+
+  <div style="height: 50vh; background-color: #444444; text-align: justify; font-size: 28px; float: left; width: 90%; padding: 30px; border: 1px solid grey; border-radius: 25px;">
 
 <font color="lightgreen">&#10148;</font> <a href="https://github.com/github-innersource/exercise-repo-template/generate" target="_blank">Click here to create a test Repo</a>
 
@@ -29,8 +32,8 @@
 <font color="lightgreen">&#10148;</font>  Address possible Innersource policy violations and re-run the report
 
   </div>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;<font color="orange">&#8681;</font> Check the solution
+<br><br><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<font color="orange">&#8681;</font> Check the solution...
 
 </div>
 

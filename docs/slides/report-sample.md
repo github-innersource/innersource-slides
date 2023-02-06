@@ -6,7 +6,7 @@
   </div>
 </div>
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
+<div style="height: 70vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 100px 10px 100px; border: 0px dashed red;">
 
 ### Issue Report
 
@@ -14,14 +14,14 @@
 
 </div>  
 
-<div style="color: black; height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 0px 10px 100px; border: 0px dashed green;">
+<div style="height: 70vh; color: black; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 0px 10px 100px; border: 0px dashed green;">
 
 ### JSON Report
 
-<pre style="padding-right: "><code style="max-height: 70vh" data-line-numbers="3,5,7,35,41,71,151,181">
+<pre><code style="max-height: 60vh" data-line-numbers="3,5,7,35,41,71,151,181">
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 18:26:03 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Mon Feb 06 2023 11:00:23 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -51,7 +51,7 @@
             "Shell": 13
         }
     },
-    "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/check`\n\n",
+    "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/comply`\n\n",
     "license": {
         "name": "ISC License",
         "key": "isc",
@@ -198,7 +198,11 @@
             "compliant": true
         }
     ],
-    "health": 48
+    "status": {
+        "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed section.",
+        "modular_health": 48,
+        "group_health": 50
+    }
 }
 </code></pre>
 

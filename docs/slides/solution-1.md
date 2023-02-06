@@ -10,22 +10,28 @@
 
 ## Solution
 
-  The exercise is very flexible in it's completion, the goal is to practice the promotion process and the policy correction cycle, via re-runs of the report.
-</div>  
+The exercise is very flexible in it's completion, the goal is to practice the promotion process and the policy correction cycle, via re-runs of the report.
 
-<div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 50px 30px 30px 30px; border: 0px dashed green;">
-  <div style="height: 50vh; background-color: #444444; text-align: justify; font-size: 32px; float: left; width: 90%; margin: 30px; padding: 30px; border: 1px solid grey; border-radius: 25px;">
+</div>
 
-<font color="lightgreen">&#10148;</font> Check the <a href="https://github.com/github-innersource/registry/tree/main/innersource_ready_reports" target="_blank">'registry'</a> repository for reports of your Innersource promotion
+  <div style="height: 90vh; text-align: justify; font-size: 32px; float: left; width: 40%; padding: 10px 30px 30px 30px; border: 0px dashed green;">
+
+## Instructions
+
+  <div style="height: 50vh; background-color: #444444; text-align: justify; font-size: 32px; float: left; width: 90%; padding: 30px; border: 1px solid grey; border-radius: 25px;">
+
+  <font color="lightgreen">&#10148;</font> Check the <a href="https://github.com/github-innersource/registry/tree/main/innersource_ready_reports" target="_blank">'registry'</a> repository for reports of your Innersource promotion
 
   </div>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<font color="orange">&#8680;</font> Continue...
+&nbsp;&nbsp;&nbsp;&nbsp;<font color="orange">&#8680;</font> Continue...
 
-</div>  
+</div>
 
 &#x2003;
+
 <!-- &#8681; -->
 
 <!-- Add some speaker notes -->
-Note: 
+
+Note:
